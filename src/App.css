@@ -1,0 +1,11 @@
+*{
+  margin: 0px auto;
+  text-align: center;
+}
+.app{
+  background-color: darkblue;
+
+}
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
